@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text;
 using System.Threading.Tasks;
 using Neo4j.Driver;
@@ -18,7 +19,7 @@ namespace Neo4jTest
         }
 
         //改法 1
-        public async Task<string> HelloWord1(string message)
+        public async Task<string> HelloWordBegin(string message)
         {
             string sql = $"CREATE (n:Greeting{{message:'{message}'}}) RETURN n.message + ' from node : '+ id(n)";
 
@@ -34,11 +35,16 @@ namespace Neo4jTest
             //取得回傳
             var result = await echo.ToListAsync(r => r[0].As<string>());
 
+            //提交變更
+            await transaction.CommitAsync();
+
+            await session.CloseAsync();
+
             return result[0];
         }
 
         //改法 2
-        public async Task<string> HelloWord2(string message)
+        public async Task<string> HelloWordWrite(string message)
         {
             string sql = $"CREATE (n:Greeting{{message:'{message}'}}) RETURN n.message + ' from node : '+ id(n)";
 
@@ -47,11 +53,35 @@ namespace Neo4jTest
             var greeting = await session.WriteTransactionAsync(async tx =>
             {
                 var result = await tx.RunAsync(sql);
+
+                return await result.ToListAsync(r => r[0].As<string>());
+            });
+
+            await session.CloseAsync();
+
+            return greeting[0];
+        }
+
+
+        public async Task<string> Read(string message)
+        {
+            string sql = $"CREATE (n:Greeting{{message:'{message}'}}) RETURN n.message + ' from node : '+ id(n)";
+
+            var session = _driver.AsyncSession();
+
+            var greeting = await session.ReadTransactionAsync(async tx =>
+            {
+                var result = await tx.RunAsync(sql);
+
+                var aa = await result.FetchAsync();
+
                 return await result.ToListAsync(r => r[0].As<string>());
             });
 
             return greeting[0];
         }
+
+
 
         //繼承自 IDisposable
         public void Dispose()
