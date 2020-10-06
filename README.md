@@ -12,4 +12,6 @@ Neo4j 連接 範例專案
 
 [Day21 Neo4j with C# 程式串接實作 part3 - 回傳資料解析](https://ithelp.ithome.com.tw/articles/10249609)
 
+[Day22 Neo4j with C# 程式串接實作 part4 - Neo4jClient 另一個 C# 接 Neo4j 的方法](https://ithelp.ithome.com.tw/articles/10249609)
+
 持續更新中...
