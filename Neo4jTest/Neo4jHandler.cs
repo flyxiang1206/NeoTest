@@ -65,7 +65,7 @@ namespace Neo4jTest
 
         public async Task<string> Read(string message)
         {
-            string sql = $"CREATE (n:Greeting{{message:'{message}'}}) RETURN n.message + ' from node : '+ id(n)";
+            string sql = $"MATCH (n:Greeting{{message:'{message}'}}) RETURN n.message + ' from node : '+ id(n)";
 
             var session = _driver.AsyncSession();
 
@@ -81,6 +81,76 @@ namespace Neo4jTest
             return greeting[0];
         }
 
+        public async Task<IList<INode>> GetNode()
+        {
+            string sql = $"MATCH (n:SQL) RETURN n";
+
+            var session = _driver.AsyncSession();
+
+            var greeting = await session.ReadTransactionAsync(async tx =>
+            {
+                var result = await tx.RunAsync(sql);
+
+                return await result.ToListAsync(r => r[0].As<INode>());
+            });
+
+            return greeting;
+        }
+
+        public async Task<IList<IRelationship>> GetRelationship()
+        {
+            string sql = "MATCH (:SQL)-[r:have]->(:SQL) RETURN r";
+
+            var session = _driver.AsyncSession();
+
+            var greeting = await session.ReadTransactionAsync(async tx =>
+            {
+                var result = await tx.RunAsync(sql);
+
+                return await result.ToListAsync(r => r[0].As<IRelationship>());
+            });
+
+            return greeting;
+        }
+
+        public async Task<IList<IPath>> GetAll()
+        {
+            string sql = "MATCH p=(:SQL)-[:have]->(:SQL) RETURN p";
+
+            var session = _driver.AsyncSession();
+
+            var greeting = await session.ReadTransactionAsync(async tx =>
+            {
+                var result = await tx.RunAsync(sql);
+
+                return await result.ToListAsync(r => r[0].As<IPath>());
+            });
+
+            return greeting;
+        }
+
+        public async Task<IList<IRecord>> GetMix()
+        {
+            string sql = "MATCH (n:SQL)-[r:have]->(n1:SQL) RETURN n,r,n1";
+
+            var session = _driver.AsyncSession();
+
+            var greeting = await session.ReadTransactionAsync(async tx =>
+            {
+                var result = await tx.RunAsync(sql);
+
+                return await result.ToListAsync();
+            });
+
+            foreach (var record in greeting)
+            {
+                var node = record["n"].As<INode>();
+                var node1 = record["n1"].As<INode>();
+                var relationship = record["r"].As<IRelationship>();
+            }
+
+            return greeting;
+        }
 
 
         //繼承自 IDisposable
