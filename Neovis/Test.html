@@ -1,0 +1,45 @@
+<html>
+<head>
+    <title>DataViz</title>
+    <style type="text/css">
+        #viz {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+    <script src="https://cdn.neo4jlabs.com/neovis.js/v1.5.0/neovis.js"></script>
+
+</head>
+<body onload="draw()">
+    <div id="viz"></div>
+
+    <script>
+        function draw() {
+
+            var config = {
+                container_id: "viz",
+                server_url: "bolt://localhost:7687",
+                server_user: "neo4j",
+                server_password: "123456",
+                labels: {
+                    "Name": {
+                        caption: "Name",
+                        sizeCypher: "MATCH (n) WHERE id(n) = $id MATCH (n)-[r]->() RETURN Count(r) +50 "
+                    }
+                },
+                relationships: {
+                    "Have": {
+                    },
+                    "Type": {
+                    }
+                },
+                initial_cypher: "match p=()-[]->() return p",
+                arrows: true
+            }
+
+            var viz = new NeoVis.default(config);
+            viz.render();
+        }
+    </script>
+</body>
+</html>

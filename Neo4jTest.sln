@@ -10,7 +10,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo4jClientTest", "Neo4jClientTest\Neo4jClientTest.csproj", "{2F55B46F-2710-4CCC-A0E5-7A16F75DDB10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Neo4jClientTest", "Neo4jClientTest\Neo4jClientTest.csproj", "{2F55B46F-2710-4CCC-A0E5-7A16F75DDB10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Neovis", "Neovis", "{7832B78D-CF6F-4840-87B9-376977280E89}"
+	ProjectSection(SolutionItems) = preProject
+		Neovis\Test.html = Neovis\Test.html
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
