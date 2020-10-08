@@ -14,4 +14,6 @@ Neo4j 連接 範例專案
 
 [Day22 Neo4j with C# 程式串接實作 part4 - Neo4jClient 另一個 C# 接 Neo4j 的方法](https://ithelp.ithome.com.tw/articles/10249609)
 
+[Day24 Neovis.js 與 Neo4j 實作範例](https://ithelp.ithome.com.tw/articles/10250989)
+
 持續更新中...
