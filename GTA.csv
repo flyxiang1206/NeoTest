@@ -1,0 +1,610 @@
+﻿Name,Vehicle__Name,Vehicle__Cost
+Boats,長崎 救生艇,FREE
+Boats,長崎 救生艇,$175K*
+Boats,詩津 極限快艇,$299K
+Boats,克洛肯潛水艇,FREE*
+Boats,丁卡 水上侯爵,$414K
+Boats,警用追獵快艇,FREE
+Boats,水上梟雄 小海鯊,$16.9K
+Boats,水上梟雄 小海鯊,FREE
+Boats,佩嘉西 飆速號,$325K*
+Boats,詩津 思快樂快艇,$196.6K
+Boats,潛水艇,FREE
+Boats,詩津 向陽號,$25.2K
+Boats,蘭帕達提 公牛,$630K*
+Boats,詩津 烈陽號,$22K
+Boats,拖船,$1.3M*
+Commercial,威皮 班森,FREE
+Commercial,HVY 傾卸車,FREE
+Commercial,MTL 冥府護衛,$3.9M*
+Commercial,喬氏 搬運者,FREE
+Commercial,喬氏 搬運者改裝款,$1.2M*
+Commercial,麥霸子 猛騾,$27K
+Commercial,麥霸子 猛騾,FREE
+Commercial,麥霸子 猛騾,$32.5K*
+Commercial,麥霸子 猛騾改裝款,$72K*
+Commercial,MTL 車輛運送車,FREE
+Commercial,喬氏 魅影,FREE
+Commercial,喬氏 魅影改裝款,$1.4M*
+Commercial,喬氏 尖錐魅影,$2.6M*
+Commercial,MTL 跑德,FREE
+Commercial,MTL 跑德改裝款,$241K*
+Commercial,威霸 攔截者,FREE
+Commercial,貝飛特 驚駭位元,$1.2M*
+Compacts,威尼 鬥技天威,$1.1M*
+Compacts,麥斯威爾 阿斯波,$408K*
+Compacts,丁卡 旅行家,$16K
+Compacts,丁卡 旅行家環狀,$580K*
+Compacts,古羅帝 精力霸 R/A,$155K*
+Compacts,BF Club,FREE*
+Compacts,卡林 愛快名人油電車,$25K
+Compacts,卡林 愛快名人油電車,$25K
+Compacts,威尼 天威,$18K
+Compacts,威尼 經典天威,FREE*
+Compacts,貝飛特 啞劇,$85K*
+Compacts,包洛坎 原野行者,$25K
+Compacts,絕緻 狂想曲,$140K*
+Coupes,埃努斯 至尊慧眼,$185K
+Coupes,浪子 典範,$205K
+Coupes,歐斯洛 F620,$80K
+Coupes,蘭帕達提 惡龍,$90K
+Coupes,蘭帕達提 惡龍 GT,$95K
+Coupes,歐斯洛 豺狼,$60K
+Coupes,絕品 先知,$80K
+Coupes,絕品先知 XS,$80K
+Coupes,絕品 衛士,$95K
+Coupes,絕品 衛士 XS,$60K
+Coupes,埃努斯 溫德莎,$845K*
+Coupes,埃努斯 溫德莎開篷版,$900K*
+Coupes,絕品 錫安,$60K
+Coupes,絕品 天堂敞篷版,$65K
+Cycles,BMX,$800
+Cycles,巡航者,$800
+Cycles,Endurex 競速車,$10K
+Cycles,費斯特,FREE
+Cycles,先驅者,"$2,000"
+Cycles,Tri-Cycles 競速車,$10K
+Cycles,Whippet 競速車,$10K
+Emergency,救護車,FREE
+Emergency,FIB 公務車,FREE
+Emergency,FIB 公務車,FREE
+Emergency,消防車,FREE
+Emergency,沙灘急救車,$35K
+Emergency,國家公園警用車,$35K
+Emergency,警用機車,FREE
+Emergency,警用巡邏車,FREE
+Emergency,警用巡邏車,FREE
+Emergency,警用巡邏車,FREE
+Emergency,警用移監巴士,FREE
+Emergency,警用鎮暴車,FREE
+Emergency,警用運輸車,FREE
+Emergency,鎮暴載具,FREE*
+Emergency,警長座車,FREE
+Emergency,警長運動休旅車,FREE
+Emergency,無標識巡邏車,FREE
+Helicopters,阿庫拉,FREE*
+Helicopters,西部 殲滅者,$1.8M
+Helicopters,長崎 兀鷹直升機,FREE
+Helicopters,長崎 兀鷹攻擊直升機,$1.8M
+Helicopters,西部 運兵直升機,$185K
+Helicopters,西部 運兵直升機,FREE
+Helicopters,FH-1 獵殺者,$4.1M*
+Helicopters,麥霸子 穿梭者,$1.3M
+Helicopters,長崎 浩劫者,$2.3M*
+Helicopters,白金漢 小蠻牛,$780K
+Helicopters,白金漢 警用直升機,FREE
+Helicopters,野人,$1.8M*
+Helicopters,海雀,FREE*
+Helicopters,白金漢 超級伏里托,$95K*
+Helicopters,白金漢 超級伏里托碳纖型,$95K*
+Helicopters,白金漢 斯威夫特,$750K*
+Helicopters,白金漢 斯威夫特豪華版,$5.2M*
+Helicopters,白金漢 女武神,$2M*
+Helicopters,白金漢 沃拉圖斯,$2.3M*
+Industrial,HVY 推土機,FREE
+Industrial,HVY 礦石搬運車,$1M
+Industrial,MTL 平板拖車,FREE
+Industrial,威皮 守護者,$375K*
+Industrial,HVY 混凝土攪拌車,FREE
+Industrial,HVY 混凝土攪拌車,FREE
+Industrial,喬氏 砂通天,FREE
+Industrial,威霸 工地傾卸車,FREE
+Industrial,工地傾卸車,FREE
+Military,馮．伏厄 防空拖車,$1.3M*
+Military,HVY APC,$2.6M*
+Military,地霸王,$450K
+Military,HVY 地霸王拖車型,FREE
+Military,勃拉吉,FREE*
+Military,黑神,FREE*
+Military,卡尼斯 傲世鐵騎,$225K
+Military,冒險家 半履戰車,$1.9M*
+Military,犀式坦克,$1.5M
+Military,HVY 聖甲蟲,$3.1M*
+Military,巨象 噴射飛行器,FREE*
+Military,TM-02 短劍,FREE*
+Motorcycles,丁卡 街頭惡魔,"$9,000"
+Motorcycles,LCC 阿瓦勒斯,$116K*
+Motorcycles,西部 馱獸,$16K
+Motorcycles,佩嘉西 801 巴提 ,$15K
+Motorcycles,佩嘉西 801RR 巴提,$15K
+Motorcycles,長崎 BF400,$95K*
+Motorcycles,長崎 碳纖 RS 型,FREE
+Motorcycles,長崎 奇美拉,$210K*
+Motorcycles,西部 高潮,$225K*
+Motorcycles,西部 惡魔,$20K
+Motorcycles,西部 惡魔改裝款,$145K*
+Motorcycles,西部 亡騎,$1.3M*
+Motorcycles,詩津 褻瀆者,$412K*
+Motorcycles,準則 蒂雅布蘿,$255K*
+Motorcycles,準則 蒂雅布蘿改裝款,$190K*
+Motorcycles,丁卡 雙 T,$12K
+Motorcycles,丁卡 恩迪羅,$48K*
+Motorcycles,佩嘉西 愛時吉,$264K*
+Motorcycles,佩嘉西 費甲歐,"$5,000"
+Motorcycles,佩嘉西 費甲歐摩登版,$55K*
+Motorcycles,佩嘉西 費甲歐現代版,$47.5K*
+Motorcycles,佩嘉西 FCR 1000,$139K*
+Motorcycles,佩嘉西 FCR 1000 改裝款,$105K*
+Motorcycles,西部 石像獸,$120K*
+Motorcycles,詩津 白鳥,$82K*
+Motorcycles,詩津 白鳥競速版,$976K*
+Motorcycles,LCC 迷魅光輪,$15K
+Motorcycles,LCC 創新,$92.5K*
+Motorcycles,準則 雷克托,$1M*
+Motorcycles,麥霸子 曼切茲,$67K*
+Motorcycles,準則 復仇女神,$12K
+Motorcycles,西部 暗夜魅影,$100K*
+Motorcycles,佩嘉西 暴君,$1.5M*
+Motorcycles,佩嘉西 暴君 Mk II,$4.9M*
+Motorcycles,詩津 PCJ 600,"$9,000"
+Motorcycles,西部 狂暴火箭,$925K*
+Motorcycles,西部 破爛機車,$48K*
+Motorcycles,佩嘉西 惡霸,$10K
+Motorcycles,麥霸子 桑切斯（塗裝）,"$7,000"
+Motorcycles,麥霸子 桑切斯 2,"$8,000"
+Motorcycles,LCC 聖者之行,$2M*
+Motorcycles,長崎 正太郎,$2.4M*
+Motorcycles,西部 君主,$120K*
+Motorcycles,長崎 神行客,$670K*
+Motorcycles,丁卡 猛衝,$75K*
+Motorcycles,詩津 威德,"$9,000"
+Motorcycles,丁卡 裝甲戰車,$630K*
+Motorcycles,佩嘉西 漩渦,$356K*
+Motorcycles,西部 狂狼剋星,$95K*
+Motorcycles,西部 搥屍者,$99K*
+Motorcycles,西部 斬屍者,$122K*
+Muscle,威皮 鬥技公路霸者,$1.1M*
+Muscle,絕緻 鬥技穿刺者,$1.2M*
+Muscle,威皮 斯拉姆萬（鬥技場）,$1.3M*
+Muscle,Imponte Beater Dukes,FREE*
+Muscle,威皮 刀片,$160K*
+Muscle,亞班尼 風流海盜,$28K
+Muscle,亞班尼 風流海盜改裝款,$95K*
+Muscle,絕緻 吃得飽漢堡公馬,$277K*
+Muscle,威皮 奇諾,$225K*
+Muscle,威皮 奇諾改裝款,$95K*
+Muscle,威皮 克里克,$909K*
+Muscle,非凡 風情黑鰭,$695K*
+Muscle,賽樂斯特 異變,$512K*
+Muscle,威皮 統治者,$35K
+Muscle,威皮 公路霸者 GTX,FREE*
+Muscle,絕緻 甩尾優勝美地,$1.3M*
+Muscle,英奔堤 死亡公爵,FREE*
+Muscle,英奔堤 公爵,FREE*
+Muscle,威皮 愛利,FREE*
+Muscle,威勒 宗派,$95K*
+Muscle,威勒 宗派改裝款,$95K*
+Muscle,威勒 宗派改裝巨輪款,$695K*
+Muscle,冒險家 鐵腕,$32K
+Muscle,冒險家 經典鐵腕,$615K*
+Muscle,Bravado Gauntlet Classic Custom,FREE*
+Muscle,冒險家 鐵腕地獄之火,$745K*
+Muscle,亞班尼 荷米斯,FREE*
+Muscle,威皮 熱情使徒,FREE
+Muscle,威皮 赫士勒,FREE*
+Muscle,絕緻 穿刺者,$331.8K*
+Muscle,威皮 凱旋將軍,$2.3M*
+Muscle,亞班尼 鬧鬼靈車,$95K*
+Muscle,絕緻 月光,$95K*
+Muscle,絕緻 月光改裝款,$95K*
+Muscle,英奔堤 暗夜魅影,$95K*
+Muscle,威皮 佩優特風火輪,$805K*
+Muscle,英奔堤 不死鳥,$20K
+Muscle,雪佛 鬥牛士,"$9,000"
+Muscle,威皮 啤士瓦舌霸主,$315K*
+Muscle,冒險家 老爺卡車,"$6,000"
+Muscle,冒險家 老爺貨車,$37.5K*
+Muscle,冒險家 紅木牌鐵腕,$230K*
+Muscle,英奔堤 滅世暴徒,$10K
+Muscle,英奔堤滅世暴徒 2000,$5.7M*
+Muscle,絕緻 渦輪劍齒虎,$15K
+Muscle,絕緻 渦輪劍齒虎改裝款,$490K*
+Muscle,威皮 斯拉姆萬,$49.5K*
+Muscle,威皮 斯拉姆萬改裝款,$415*
+Muscle,絕緻 公馬,FREE*
+Muscle,絕緻 坦帕,$95K*
+Muscle,  絕緻 鬱金香,$718K*
+Muscle,絕緻 巴默思,$596K*
+Muscle,絕緻 活力夠,$21K
+Muscle,亞班尼 室女,$195K*
+Muscle,敦追里 經典室女,$165K*
+Muscle,敦追里 經典室女改裝款,$240K*
+Muscle,絕緻 巫毒,"$5,000"
+Muscle,絕緻 巫毒改裝款,$95K*
+Muscle,絕緻 武裝坦帕,$1.7M*
+Muscle,絕緻 優勝美地,FREE*
+OffRoad,畢福 必浮塔,$40K*
+OffRoad,長崎 烈焰,"$8,000"
+OffRoad,長崎 水陸烈焰,$1.8M*
+OffRoad,長崎 烈焰救生型,"$8,000"
+OffRoad,卡尼斯 萬用行者,$25K
+OffRoad,旋風 鬥毆者,$715K*
+OffRoad,貝飛特 彪拳,$1.6M*
+OffRoad,絕緻 布魯特斯,$2.7M*
+OffRoad,威皮 卡拉卡拉,FREE*
+OffRoad,威皮 卡拉卡拉四驅車,$875K*
+OffRoad,威皮 沙漠突擊,$695K*
+OffRoad,貝飛特 迪布達 6x6,$249K*
+OffRoad,畢福 沙丘魔寶,$20K
+OffRoad,畢福 沙丘魔寶 FAV,$1.6M*
+OffRoad,冒險家 越野遊俠,$15K
+OffRoad,卡林 艾維爾隆,$1.5M*
+OffRoad,卡尼斯 自由行者,$597K*
+OffRoad,愛尼仕 惡人,$835K*
+OffRoad,長崎 火爆烈焰騎士,$69K
+OffRoad,畢福 沙丘征服者,$16K
+OffRoad,HVY 叛亂份子,$1.4M*
+OffRoad,HVY 叛亂份子（有蓋）,$675K*
+OffRoad,HVY 叛亂份子貨車改裝款,$1.8M*
+OffRoad,卡尼斯 喀拉哈里,$75K*
+OffRoad,卡尼斯喀拉哈里敞篷,$51K*
+OffRoad,卡尼斯 卡馬喬,FREE*
+OffRoad,雪佛 馬紹爾,FREE*
+OffRoad,HVY 威嚇者,$2M*
+OffRoad,卡尼斯 岩魔,$85K
+OffRoad,HVY 夜鯊,$1.2M*
+OffRoad,長崎 亡命之徒,$1.3M*
+OffRoad,畢福 跳台魔寶,$3.2M*
+OffRoad,絕緻 藍徹 XL,"$9,000"
+OffRoad,卡林 叛逆男女,"$3,000"
+OffRoad,卡林 叛逆男女,$22K
+OffRoad,威皮 力雅塔,FREE*
+OffRoad,威皮 大腳霸王 SWB,$38K
+OffRoad,威皮 大腳霸王 XL,$45K
+OffRoad,冒險家 大腳怪獸,$1.5M*
+OffRoad,Canis Seminole Frontier,FREE*
+OffRoad,長崎 街頭烈焰,$81K*
+OffRoad,卡林 鐵尼高,$750K*
+OffRoad,卡林 水陸鐵尼高,$1.5M*
+OffRoad,卡林 鐵尼高改裝款,$1.3M*
+OffRoad,解放者,$742K*
+OffRoad,威皮 越野卡車,$550K*
+OffRoad,麥斯威爾 流浪者,$2.2M*
+OffRoad,Declasse Yosemite Rancher,FREE*
+OffRoad,盧恩 薩巴,$2.4M*
+OpenWheel,Benefactor BR8,FREE*
+OpenWheel,Declasse DR1,FREE*
+OpenWheel,培羅 PR4,$3.5M*
+OpenWheel,歐斯洛 R88,$3.1M*
+Planes,愛快-Z1,$2.1M*
+Planes,巨象 復仇者,FREE*
+Planes,B-11 突擊之力,$4.8M*
+Planes,西部 雀鷹,$795K*
+Planes,飛船,$895K*
+Planes,邦布須卡,$5.9M*
+Planes,西部 古邦 800,$240K
+Planes,嘟嘟鳥,FREE*
+Planes,西部 灑藥機,$275K
+Planes,巨象 九頭蛇,$2.5M*
+Planes,白金漢 樂梭,$1.6M
+Planes,白金漢 樂梭豪華版,$10M*
+Planes,西部 特技飛機,$250K
+Planes,喬氏 天行巨獸,$300K
+Planes,白金漢 軍用噴射機,$1.3M*
+Planes,莫古爾,$3.1M*
+Planes,白金漢 尼姆巴思,$1.9M*
+Planes,霍華 NX-25,$13M*
+Planes,P-45 諾科塔,$2.7M*
+Planes,喬氏 P-996 天煞,FREE
+Planes,狂燄,$4.5M*
+Planes,惡棍,$1.6M*
+Planes,西部 海風,$1.1M*
+Planes,白金漢 夏瑪爾客機,$1.2M
+Planes,星椋,$3.7M*
+Planes,泰坦號,$2M
+Planes,圖拉,$5.2M*
+Planes,佩嘉西 輕極,$665K*
+Planes,V-65 莫洛托克,$4.8M*
+Planes,喬氏 梅杜莎,$450K
+Planes,喬氏 梅杜莎（五座）,$515K*
+Planes,白金漢 威斯特拉,$950K*
+Planes,沃拉托,FREE*
+Sedans,絕緻 海致,$12K
+Sedans,卡林 愛碩普,$26K
+Sedans,埃努斯 至尊慧眼,$95K*
+Sedans,埃努斯 至尊慧眼（附裝甲）,$95K*
+Sedans,埃努斯 至尊慧眼 55,$95K*
+Sedans,埃努斯 至尊慧眼 55（附裝甲）,$95K*
+Sedans,亞班尼 皇霸天,"$8,000"
+Sedans,亞班尼 皇霸天,"$5,000"
+Sedans,雪佛 流星,$24K
+Sedans,貝飛特 格倫戴爾,$200K*
+Sedans,Benefactor Glendale Custom,FREE*
+Sedans,福獅 英卡特,"$9,000"
+Sedans,卡林 入侵者,$16K
+Sedans,絕緻 統領,$10K
+Sedans,亞班尼 初代,"$9,000"
+Sedans,亞班尼 初代改裝款,$95K*
+Sedans,敦追里 女皇,"$8,000"
+Sedans,烈火馬 鋼骨靈車,$45K
+Sedans,貝飛特 莎夫特,$65K
+Sedans,貝飛特 莎夫特長軸車（附裝甲）,$95K*
+Sedans,貝飛特 莎夫特 V12（附裝甲）,$95K*
+Sedans,埃努斯 斯塔福德,$1.3M*
+Sedans,威皮 史塔尼亞,$10K
+Sedans,賽柯尼安 地層先鋒,$10K
+Sedans,敦追里 加長型禮車,$30K
+Sedans,埃努斯 金鑽耀星,$250K
+Sedans,雪佛 奔騰,$38K
+Sedans,奧北 密探,$55K
+Sedans,貝飛特 武裝禮車,$95K*
+Sedans,福獅 守護星,$120K*
+Sedans,亞班尼 華盛頓,$15K
+Service,機場巴士,$550K
+Service,HVY 貝凱迪,$1.1M*
+Service,巴士,$500K
+Service,白狗巴士,$525K
+Service,MTL 沙丘,FREE*
+Service,音樂節巴士,$1.5M*
+Service,租用接駁巴士,$30K
+Service,計程車,$13K
+Service,旅遊巴士,FREE
+Service,垃圾大王,FREE
+Service,MTL 開荒者 ,$332.5K*
+Sports,奧北 9F,$120K
+Sports,奧北 9F 敞篷版,$130K
+Sports,亞班尼 愛快,$150K*
+Sports,冒險家 女妖,$105K
+Sports,冒險家 女妖敞篷,$126K*
+Sports,古羅帝 猛獸 GTS,$610K*
+Sports,丁卡 小型旅行家,FREE*
+Sports,冒險家 猛牛,$35K
+Sports,冒險家 探險猛牛 S,$96K
+Sports,古羅帝 汗血寶馬,$195K
+Sports,菲斯特 陸上彗星,$100K
+Sports,菲斯特陸上彗星仿古改裝款,$645K*
+Sports,菲斯特 陸上彗星狩獵,FREE*
+Sports,菲斯特 陸上彗星 SR,FREE*
+Sports,非凡 風情,$138K
+Sports,非凡 風情,$159K*
+Sports,Invetero Coquette D10,FREE*
+Sports,奧北 8F 尾流王者,$718K*
+Sports,絕緻 甩尾坦帕,$995K*
+Sports,愛尼仕 輓歌仿古改裝款,$575K*
+Sports,愛尼仕 輓歌 RH8,FREE*
+Sports,貝飛特 飛特者,$145K
+Sports,威皮 閃光 GT,FREE*
+Sports,蘭帕達提 復仇女神 GT,$448K*
+Sports,賽樂斯特 眩光,$36K
+Sports,卡林 福多,"$9,000"
+Sports,威皮 GB200,FREE*
+Sports,絕緻 嗨羚劍齒虎,FREE*
+Sports,傲弗拉 焰魔狼,$2.2M*
+Sports,威尼天威跑車,$897K*
+Sports,古羅帝義塔力 GTO,$2M*
+Sports,丁卡 小丑,$240K*
+Sports,丁卡 小丑（賽車）,$350K*
+Sports,歐斯洛咽喉,$1.2M*
+Sports,海角 變色龍,FREE
+Sports,蘭帕達提 古茂田,$1.7M*
+Sports,卡林 骷髏馬,$74K*
+Sports,卡林 骷髏馬（附裝甲）,$74K*
+Sports,歐斯洛 蝗蟲,$1.6M*
+Sports,歐斯洛 山貓,$1.7M*
+Sports,浪子 馬沙高,$275K*
+Sports,浪子 馬沙高（賽車）,$385K*
+Sports,飛莎 尼歐,$1.9M*
+Sports,菲斯特 霓虹,FREE*
+Sports,奧北 全路線尊者,$701K*
+Sports,埃努斯 帕拉岡 R,$905K*
+Sports,埃努斯 帕拉岡 R（附裝甲）,FREE*
+Sports,歐斯洛 放逐者,FREE*
+Sports,麥霸子 半影使者,$24K
+Sports,Maibatsu Penumbra FF,FREE*
+Sports,旋風 雷電,FREE*
+Sports,浪子 疾速 GT,$132K
+Sports,浪子 疾速 GT,$140K
+Sports,畢福 猛禽,$648K*
+Sports,絕品 反叛者,FREE*
+Sports,海角 拉斯頓,$430K*
+Sports,貝飛特 莎夫特長軸車,$95K*
+Sports,貝飛特 莎夫特 V 12,$95K*
+Sports,貝飛特 重擊 GT,$1.3M*
+Sports,貝飛特 史瓦澤,$80K
+Sports,絕品 經典衛士,FREE*
+Sports,浪子 柒-70,$695K*
+Sports,浪子 史必特,$874K*
+Sports,浪子 史必特改裝款,$395K*
+Sports,冒險家 霜碧猛牛,$535K*
+Sports,貝飛特 戰士,FREE*
+Sports,丁卡 斯國一,$1.2M*
+Sports,卡林 王者,$12K
+Sports,卡林 經典王者,$1.7M*
+Sports,貝飛特 速雷,$110K
+Sports,蘭帕達提 脫普斯拉力,$816K*
+Sports,冒險家 迷失者,$95K*
+Sports,亞班尼 V-STR,$1.3M*
+Sports,愛尼仕 ZR380,$2.1M*
+SportsClassics,卡林 190z,FREE*
+SportsClassics,歐斯洛 熾烈,$1.2M*
+SportsClassics,蘭帕達提 佳士可,$680K*
+SportsClassics,盧恩 切布列克,FREE*
+SportsClassics,古羅帝 經典獵豹,$865K*
+SportsClassics,非凡 風情經典,$665K*
+SportsClassics,非凡 風情經典,$695K*
+SportsClassics,英奔堤 德路克索,FREE*
+SportsClassics,威尼王朝,$450K*
+SportsClassics,福獅 法加洛亞,FREE*
+SportsClassics,亞班尼 科學怪人,$95K*
+SportsClassics,古羅帝 GT500,FREE*
+SportsClassics,佩嘉西 經典煉獄魔,$915K*
+SportsClassics,浪子 JB 700,$350K
+SportsClassics,浪子 JB 700W,$1.5M*
+SportsClassics,丁卡 經典小丑,FREE*
+SportsClassics,絕緻 曼巴,$95K*
+SportsClassics,亞班尼 明日之星,"$8,000"
+SportsClassics,Albany Manana Custom,FREE*
+SportsClassics,蘭帕達提 米其利 GT,FREE*
+SportsClassics,佩嘉西 門羅,$490K
+SportsClassics,福獅星雲渦輪,$797K*
+SportsClassics,威皮 佩優特,$12K
+SportsClassics,Vapid Peyote Custom,FREE*
+SportsClassics,蘭帕達提 皮卡樂,$400K*
+SportsClassics,浪子 經典疾速 GT,$885K*
+SportsClassics,威皮 隨行者,$62.1M*
+SportsClassics,威皮 隨行者 Mk II,$1.6M*
+SportsClassics,亞班尼 羅斯福,$750K*
+SportsClassics,亞班尼 羅斯福勇氣,$982K*
+SportsClassics,愛尼仕 薩維斯特拉,FREE*
+SportsClassics,古羅帝 史汀格,$850K
+SportsClassics,古羅帝 史汀格,$871K*
+SportsClassics,古羅帝 史汀格 ,$875K
+SportsClassics,貝飛特 史特靈 GT,$975K*
+SportsClassics,歐斯洛 施特龍貝格,FREE*
+SportsClassics,歐斯洛 潮威,$949K*
+SportsClassics,佩嘉西 鬥牛,$998K*
+SportsClassics,絕緻 旋風,$30K
+SportsClassics,絕緻 旋風,$30K
+SportsClassics,絕緻 旋風,$30K
+SportsClassics,絕緻 旋風改裝款,$375K*
+SportsClassics,絕緻 旋風復古拼裝,$378K*
+SportsClassics,古羅帝 經典披治,$705K*
+SportsClassics,蘭帕達提 維塞里斯,FREE*
+SportsClassics,絕品經典錫安,$812K*
+SportsClassics,特盧菲 Z-Type,$950K
+Super,特盧菲 靈蛇,$1M
+Super,傲弗拉 獨裁者,FREE*
+Super,冒險家 女妖 900R,$795K*
+Super,威皮 子彈,$155K
+Super,古羅帝 獵豹,$650K
+Super,旋風 龍捲風,$1.9M*
+Super,準則強滅捌,$1.8M*
+Super,培羅艾默瑞思,$2.8M*
+Super,傲弗拉 本質 XF,$795K
+Super,傲弗拉 本質 XXR,FREE*
+Super,皇霸天 ETR 1,$2M*
+Super,威皮 FMJ,$1.8M*
+Super,古羅帝 狂怒者,$2.7M*
+Super,培羅 GP1,$1.3M*
+Super,佩嘉西 煉獄魔,$440K
+Super,培羅義塔力 GTB ,$989K*
+Super,培羅義塔力 GTB 改裝款,$445K*
+Super,貝飛特 戰兵,$2.9M*
+Super,特盧菲尼羅,$1.3M*
+Super,特盧菲 尼羅改裝款,$605K*
+Super,佩嘉西 奧西里斯,$2M*
+Super,歐斯洛摧花辣手,$780K*
+Super,菲斯特 811,$1.1M*
+Super,愛尼仕 RE-7B,$2.5M*
+Super,佩嘉西 死神,$1.6M*
+Super,旋風火箭狂雷,$3.8M*
+Super,愛尼仕 S80RR,$2.6M*
+Super,絕品 SC1,FREE*
+Super,絕緻 超燃衝壓,$4.5M*
+Super,卡林 王者 RS,$795K*
+Super,培羅 T20,$2.2M*
+Super,雪佛 泰攀,FREE*
+Super,佩嘉西泰皮斯達,$629K*
+Super,佩嘉西 泰澤拉克,FREE*
+Super,特盧菲瑟雷斯,$2.3M*
+Super,Lampadati Tigon,FREE*
+Super,古羅帝 披治 R,$500K*
+Super,傲弗拉 獨裁者,FREE*
+Super,培羅 泰勒斯,$2.6M*
+Super,佩嘉西 狂牛,$240K
+Super,浪子 瓦格納,$1.5M*
+Super,古羅帝 正義使者,FREE*
+Super,古羅帝 幻象,$2.3M*
+Super,旋風 狂雷,$150K
+Super,旋風 狂雷,$172K*
+Super,古羅帝 X80 概念款,$2.7M*
+Super,歐斯洛 XA-21,$1.9M*
+Super,佩嘉西 桑托勞,$725K*
+Super,佩嘉西佐盧索,$1.9M*
+Suvs,悠遊 行者,$90K
+Suvs,悠遊 行者,$90K
+Suvs,悠遊 行者 LE,$95K*
+Suvs,悠遊 行者 LE（附裝甲）,$95K*
+Suvs,悠遊 行者 LE 長軸車,$95K*
+Suvs,悠遊 行者 LE 長軸車（附裝甲）,$95K*
+Suvs,卡林 碧傑 XL,$27K
+Suvs,亞班尼 騎兵,$60K
+Suvs,亞班尼 騎兵,$70K
+Suvs,威皮 爭奪者,$1.1M*
+Suvs,貝飛特 迪布達,$70K
+Suvs,貝飛特 迪布達,$70K
+Suvs,深水 FQ 2,$50K
+Suvs,絕緻 屌王,$35K
+Suvs,冒險家 情慾獵手,$29K
+Suvs,皇霸天 哈拔尼祿,$42K
+Suvs,埃努斯 肯特利 S,$195K*
+Suvs,敦追里 追捕者,$58K
+Suvs,Dundreary Landstalker XL,FREE*
+Suvs,卡尼斯 岩魔,$30K
+Suvs,蘭帕達提諾瓦克,$608K*
+Suvs,巨象 愛國者,$50K
+Suvs,巨象 愛國者加長型禮車,$460K*
+Suvs,威皮 輻光,$32K
+Suvs,絕品 瑞巴拉 GTS,$1.2M*
+Suvs,奧北 小辣椒,$85K
+Suvs,卡尼斯 陸上專家,$30K
+Suvs,貝飛特 瑟雷諾,$60K
+Suvs,佩嘉西奔牛,$498K*
+Suvs,貝飛特 XLS,$253K*
+Suvs,貝飛特 XLS（附裝甲）,$522K*
+Utility,行李拖車,FREE
+Utility,高爾夫球車,FREE
+Utility,高爾夫球車,FREE
+Utility,高爾夫球車,$120K*
+Utility,碼頭拖車,FREE
+Utility,史丹利 農耕機,FREE
+Utility,HVY 堆高機,FREE
+Utility,割草車,FREE
+Utility,機場牽引車,FREE
+Utility,威皮 沙德勒,$35K
+Utility,廢五金回收車,FREE
+Utility,公共事業卡車,FREE
+Utility,公共事業卡車,FREE
+Utility,公共事業卡車,FREE
+Vans,威霸裝甲廂村,$2.9M*
+Vans,冒險家 野牛,$30K
+Vans,冒險家 野牛,$30K
+Vans,冒險家 野牛,$30K
+Vans,威皮 雄貓 XL,$23K
+Vans,廂村,$25K
+Vans,廂村,$25K
+Vans,威霸 廂村,$25K
+Vans,威霸 廂村,$45K*
+Vans,絕緻 屌客,$13K
+Vans,絕緻 屌客,$13K
+Vans,絕緻 屌客,$13K
+Vans,威霸 露營車,FREE
+Vans,絕緻 屌客幫派版,$16K
+Vans,絕緻 屌客幫派版,$65K*
+Vans,賽柯尼安 安旅者,$15K
+Vans,威皮 迷你廂型車,$30K
+Vans,威皮 迷你廂型車改裝款,$330K*
+Vans,冒險家 天堂,$25K*
+Vans,威霸 小馬,FREE
+Vans,威霸 小馬,FREE
+Vans,冒險家 瀾波,$13K
+Vans,冒險家 瀾波,FREE
+Vans,冒險家 瀾波改裝款,$130K*
+Vans,威皮 勁速,$15K
+Vans,威皮 勁速改裝款,FREE*
+Vans,畢福 乘風,$11K
+Vans,畢福 乘風,"$5,000"
+Vans,玉米餅餐車,FREE
+Vans,冒險家 遊俠,$16K
+Vans,冒險家 經典遊俠,$195K*
+Vans,Bravado Youga Classic 4x4,FREE*
